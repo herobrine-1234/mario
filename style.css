@@ -1,0 +1,11 @@
+body{background-size:cover ;} 
+.heading{width: 100%;box-shadow: 15px 15px 20px red;text-align: left;}
+.heading h3{display:inline}
+.heading button{float:right}
+.googo_gaaga{width: 80%;border:5px solid blue}
+.modal-dialog{width:90%;} 
+h4{background-color: aqua; line-height: 2;margin:0px}
+.instruction_image{display:inline-block;width:45%}
+video{background:url("game_console.png");background-size: cover;background-position: center;padding:25px;}
+
+
